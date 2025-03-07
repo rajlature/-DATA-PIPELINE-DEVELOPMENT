@@ -46,3 +46,7 @@ Data Analysis: The pipeline prepares datasets for exploratory data analysis (EDA
 Machine Learning: Before feeding data into machine learning models, it is essential to preprocess the data to ensure it is in the right format and scale. This pipeline facilitates that process, improving model performance and accuracy.
 Data Warehousing: The ETL process is fundamental in integrating data from multiple sources into a single repository, making it easier to analyze and report on.
 Business Intelligence: Organizations can leverage this ETL pipeline to make data-driven decisions by providing clean and well-structured data for reporting and analysis.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/e5b12e31-6365-4dbf-b4d9-7c91aa2aab0b)
