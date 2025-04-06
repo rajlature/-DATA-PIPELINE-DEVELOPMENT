@@ -28,4 +28,10 @@ Clustering: Using unsupervised learning (e.g., K-Means), you can group similar p
 Performance Analysis: Analysts can use this clean data for visual dashboards using tools like Streamlit or Tableau to highlight top players, trends across tournaments, or team comparisons.
 Statistical Insights: You can calculate averages, win/loss ratios, and other KPIs to support data-driven decision-making in sports analytics.
 
+OUTPUR:-
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/061224ca-a22e-41e1-aabe-1b7b00ca600a" />
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/d2833a39-e04f-4f12-baef-fe76f5163862" />
+
 In conclusion, this ETL pipeline not only automates a crucial part of data preparation but also serves as a foundational step for a wide range of machine learning, statistical, and analytical applications in the domain of cricket analytics.
