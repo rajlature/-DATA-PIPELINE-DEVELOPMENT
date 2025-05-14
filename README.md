@@ -1,17 +1,3 @@
-# -DATA-PIPELINE-DEVELOPMENT
-
-"COMPANY" :CODTECH IT SOLUTIONS
-
-"NAME" : CHANNABASWARAJ GORAKH LATURE
-
-INTERN ID : CT06WV11
-
-*DOMAIN * : DATA SCIENCE
-
-DURATION : 6 WEEKS
-
-MENTOR : NEELA SANTOSH
-
 DESCRIPTION
 
 In this project, I developed an ETL (Extract, Transform, Load) pipeline using Python to automate the preprocessing of a structured dataset titled "ODI Cricket Data.csv". This dataset consists of performance statistics of players in One Day International (ODI) cricket matches, including both batting and bowling features. The goal of this pipeline was to clean, standardize, and prepare the data for further analysis, modeling, and visualization.
